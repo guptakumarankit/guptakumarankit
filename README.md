@@ -21,8 +21,7 @@ I'm MERN Stack Developer and Compatative Coder ...
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankit.kr778389@gmail.com) 
 
-## Portfolio 
- <a href="[https://github.com/yourusername/data-dashboard](https://portfolio-kappa-six-hp5j8jzyc8.vercel.app/)" target="_blank">Repo</a> 
+
  
 ### 📈 GitHub Stats
 

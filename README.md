@@ -22,6 +22,39 @@ I'm MERN Stack Developer and Compatative Coder ...
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankit.kr778389@gmail.com) 
 
 ## Portfolio 
+ <a href="[https://github.com/yourusername/data-dashboard](https://portfolio-kappa-six-hp5j8jzyc8.vercel.app/)" target="_blank">Repo</a> 
+ 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
+  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Website-black?style=flat&logo=web" /></a>
+</p>
+📝 Notes
+Replace all placeholders like yourusername
+
+
+
+
+Attach
+
+Search
+
+
+ChatGPT can make mistakes. Check important info. See Cookie Preferences.
+
+ChatGPT is still generating a response...
 | 💼 Portfolio Website | [View]([https://yourusername.github.io/portfolio](https://portfolio-kappa-six-hp5j8jzyc8.vercel.app/)) 
 
 
